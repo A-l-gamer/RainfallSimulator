@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: 12f75eaee872c004b958bac3c1c06c5f
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Mont Blanc-Trial
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 401a01757e84344409aab283ef12d175, type: 3}
+  - {fileID: 12800000, guid: 71de864dde57ca149b98b4c8549bc1d1, type: 3}
+  - {fileID: 12800000, guid: 51d17a1a918fcfc4ea93fd38ed2eb2ff, type: 3}
+  - {fileID: 12800000, guid: 60f4f69f7ff313745bfd88cfd7a5e645, type: 3}
+  - {fileID: 12800000, guid: 70c039aed2a271b47838068e814d9113, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

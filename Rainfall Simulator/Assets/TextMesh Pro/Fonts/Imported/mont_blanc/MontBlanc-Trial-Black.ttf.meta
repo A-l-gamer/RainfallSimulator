@@ -1,0 +1,36 @@
+fileFormatVersion: 2
+guid: 37bc477cb56d6e747b7e6707f042e43b
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Mont Blanc-Trial
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 401a01757e84344409aab283ef12d175, type: 3}
+  - {fileID: 12800000, guid: 75769ab7bf0b74a4dae0f2621e5f2e6f, type: 3}
+  - {fileID: 12800000, guid: 71de864dde57ca149b98b4c8549bc1d1, type: 3}
+  - {fileID: 12800000, guid: 51d17a1a918fcfc4ea93fd38ed2eb2ff, type: 3}
+  - {fileID: 12800000, guid: 830c2ea985567de4c922a43d36e2dad8, type: 3}
+  - {fileID: 12800000, guid: 2685c4793ef697a489112ada64e4ed15, type: 3}
+  - {fileID: 12800000, guid: 36be952cbd51f87488f8c878c595fc0c, type: 3}
+  - {fileID: 12800000, guid: 12f75eaee872c004b958bac3c1c06c5f, type: 3}
+  - {fileID: 12800000, guid: f55c33bc3f61a3045979d2d4568eecf0, type: 3}
+  - {fileID: 12800000, guid: 24008dd220db75f4e9df11dde5cdd6a5, type: 3}
+  - {fileID: 12800000, guid: 60f4f69f7ff313745bfd88cfd7a5e645, type: 3}
+  - {fileID: 12800000, guid: 2268b00fd6141474a872997c744522f5, type: 3}
+  - {fileID: 12800000, guid: 320cae5dde4ef994391ea87443461088, type: 3}
+  - {fileID: 12800000, guid: 70c039aed2a271b47838068e814d9113, type: 3}
+  - {fileID: 12800000, guid: 92c060b9129d33e4b8b9330b21c6da6c, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

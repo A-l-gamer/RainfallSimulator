@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 3fc985aff2e39824f956413a6df38c4b
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Mont Blanc Demo
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: b8e8c5a8ff31ada4795b4c22a534b696, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
